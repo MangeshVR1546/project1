@@ -1,0 +1,4 @@
+mangeshrakhewar15_db_user
+HDZjIJivz4mbTgOl
+
+mongodb+srv://mangeshrakhewar15_db_user:<db_password>@cluster0.a6clcdz.mongodb.net/
